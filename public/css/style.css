@@ -1,0 +1,15 @@
+body {
+    margin-top: 30px;
+}
+
+#todoList {
+    margin-bottom: 30px;
+}
+
+#todoForm {
+    margin-bottom: 50px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
